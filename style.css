@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt|Sacramento&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.Home {
+    background-color: #96d1c7;
+    text-align: center;
+}
+.Home h1 {
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.25rem;
+    color: #347474;
+}
+.Home .texts p {
+    color: #35495e;
+    font-weight: bold;
+    font-size: 2.125rem;
+}
+
+.bg-img {
+    width: 200px;
+    height: 200px;
+}
+
+#cloud1 {
+    position: relative;
+    left: 500px;
+}
+
+#cloud2 {
+    position: absolute;
+    left: 50px;
+}
+.mountains {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.texts {
+    padding: 50px 0 100px 0;
+}
+
+.About-section {
+    text-align: center;
+    /* color: #347474; #66BFBF*/
+}
+.About-section img {
+    margin: 100px auto 50px auto;
+    border-radius: 100px;
+}
+.About-section h1 {
+    font-size: 3rem;
+    color: #347474;
+}
+
+.About-section p {
+    width: 25rem;
+    margin: 10px auto 10px auto;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.styled-hr {
+    margin: 100px auto 100px auto;
+    border: dotted #35495e;
+    border-top: 0;
+    border-width: 10px;
+    width: 5rem;
+}
+
+.my-skills {
+    text-align: center;
+}
+.my-skills h1 {
+    font-size: 3rem;
+    color: #347474;
+    margin: 0 auto 100px auto;
+}
+.design-dev {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.design-dev img {
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin: 0 2rem 0 0;
+}
+.design-dev h3 {
+    color: #347474;
+    font-size: 1.3rem;
+}
+.design-dev p {
+    width: 40rem;
+    line-height: 2;
+}
+
+.design-dev {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.design-dev img {
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin: 0 2rem 0 0;
+}
+.design-dev h3 {
+    color: #347474;
+    font-size: 1.3rem;
+}
+.design-dev p {
+    width: 40rem;
+    line-height: 2;
+}
+
+#illustration-artist {
+    float: right;
+    margin-left: 25px;
+}
+
+.contact {
+    text-align: center;
+    margin: 100px auto 100px auto;
+}
+
+.contact h1 {
+    color: #347474;
+    font-size: 3rem;
+}
+
+.contact h3 {
+    color: #347474;
+}
+
+.contact p {
+    margin: 50px auto 50px auto;
+    width: 25rem;
+    line-height: 2;
+    font-weight: 500;
+}
+
+.myButton {
+	box-shadow: 0px 0px 5px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#63b7af;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:17px 62px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #66BFBF;
+}
+.footer p{
+    text-align: center;
+    padding: 20px 0 20px 0;
+    line-height: 2;
+    font-size: 1.2rem;
+    font-weight: 900;
+    margin: 10px auto 0 auto;
+    color: #EAF6F6;
+}
+.footer a:hover {
+    color: wheat;
+}
+.footer a {
+    text-decoration: none;
+    color: #11999E;
+    padding: 16px 32px;
+    font-size: 1.3rem;
+}
+
+.links {
+    padding-top: 30px;
+}
